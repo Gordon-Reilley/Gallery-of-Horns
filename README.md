@@ -33,3 +33,12 @@ An application that displays images and information of horned animals. This appl
     - Finish time: 11:59pm EST
 
     - Actual time needed to complete: 1 hr 4 min
+4. Feature 4: Display a Modal
+
+    - Estimate of time needed to complete: 6 Hours
+
+    - Start time: 6:50pm EST
+
+    - Finish time: 11:59pm EST
+
+    - Actual time needed to complete: 1 hr 4 min
