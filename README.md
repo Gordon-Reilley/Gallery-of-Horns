@@ -42,3 +42,12 @@ An application that displays images and information of horned animals. This appl
     - Finish time: 10:59pm EST
 
     - Actual time needed to complete: 5 hr 9 min
+5. Feature 5: Filter by Numbers of Horns
+
+    - Estimate of time needed to complete: 6 Hours
+
+    - Start time: 5:56pm EST
+
+    - Finish time: 10:59pm EST
+
+    - Actual time needed to complete: 5 hr 3 min
